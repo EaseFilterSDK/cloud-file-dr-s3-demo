@@ -10,7 +10,7 @@ Cloud File DR is a hot standby DR solution, it offers the fastest restore as dat
 Cloud-based Disaster Recovery (Cloud DR) takes a very different approach for disaster recovery based on virtualization. EaseFilter Cloud File System automatically integrates the cloud storage into the on-premies storage, it can deliver a fully functional virtual infrastructure ready to take over an outage disrupt primary services. The virtual file is stored in an offsite public cloud where it remains in standby ready for failover. Data synchronization operates in the background to keep data up-to-date. The entire system can be spun up in minutes, saving the organization from costly service interruption.
 ![Cloud File FOLDER](https://www.easefilter.com/images/cloudFolder.png)
 
-**Active-Active Cluster system.** With the Cloud File File System, you can set up two or more active systems, which the virtual files can be accessed from all the active systems, it can distribute your load balance and support the automated fail over without your interference.
+**Active-Active Cluster system.** With the [Cloud File System SDK](https://www.easefilter.com/cloud/cloud-file-system-sdk.htm), you can set up two or more active systems, which the virtual files can be accessed from all the active systems, it can distribute your load balance and support the automated fail over without your interference.
 
 **Zero downtime for the disaster recovery.** With the Cloud File DR solution, in the event of a disaster, you can automatically fail over the local storage to the cloud storage if disaster strikes,you can quickly launch resources to ensure your business continuity. You can leverage for your disaster recovery (DR) processes to significantly minimize the impact on your data, your system, and your overall business operations, your business won't be interrupted. Retrieve back the files from cloud storage is very fast, only the applications requested data will be downloaded.
 
@@ -30,7 +30,7 @@ Cloud-based Disaster Recovery (Cloud DR) takes a very different approach for dis
 | Sample Project | Description |
 | --- | --- |
 | [CloudTier Storage Tiering Demo](https://www.easefilter.com/cloud/cloudtier-storage-tiering-demo.htm) | A HSM File System Filter Driver Demo. |
-| [CloudTier S3 Intelligent Tiering Demo](https://www.easefilter.com/cloud/cloudtier-s3-intelligent-tiering-demo.htm) | CloudTier S3 Intelligent Tiering Demo. |
+| [CloudTier S3 Tiering Demo](https://www.easefilter.com/cloud/cloudtier-s3-intelligent-tiering-demo.htm) | CloudTier S3 Intelligent Tiering Demo. |
 | [Cloud File DR S3 Demo](https://www.easefilter.com/cloud/cloud-file-dr-demo.htm) | Cloud File DR S3 Demo. |
 | [Amazon S3 File Explorer Demo](https://www.easefilter.com/cloud/s3-browser-demo.htm) | Amazon S3 File Explorer Demo. |
 | [Auto File DRM Encryption](https://www.easefilter.com/kb/auto-file-drm-encryption-tool.htm) | Auto file encryption with DRM data embedded. |
